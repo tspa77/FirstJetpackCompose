@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "JetComp"
 include(":app")
+include(":jcapi")
